@@ -1,5 +1,5 @@
-# naziv projekta
+# Strateski Sudoku
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Ivan Đakovac, Petar Brdaric
 - programming language: C++
-- description: Opis
+- description: ---------------------------
